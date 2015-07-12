@@ -1,4 +1,6 @@
 ashjkahckjhaskjcsajk
-sahjxhasjhcjka
+sahjxhasj int main()
+{
+return }
 
 uihasx
